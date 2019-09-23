@@ -1,3 +1,5 @@
 install.packages("tidyverse")
 install.packages("shiny")
+install.packages("httr")
 install.packages("jsonlite")
+install.packages("openxlsx")
