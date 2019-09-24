@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: boalgopoly
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1235659
+bundleId: 2440245
+url: https://boalgopoly.shinyapps.io/shiny/
+when: 1569324355.61765
